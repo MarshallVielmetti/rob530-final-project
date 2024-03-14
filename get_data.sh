@@ -1,0 +1,1 @@
+cat data_files.txt | xargs -n 1 -P 4 wget -P ./data

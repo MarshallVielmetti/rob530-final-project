@@ -15,3 +15,10 @@ To run the project/script:
 Either `poetry run python script.py`, or use a poetry shell:
 
 Activate poetry shell with `poetry shell`, `exit` to close & deactivate env, 
+
+
+## Download Data
+
+Might have to give script persmission to run: `chmod u+x get_data.sh`, then `./get_data.sh`
+
+## Camera Calibration Data

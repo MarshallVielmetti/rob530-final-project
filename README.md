@@ -16,9 +16,6 @@ Either `poetry run python script.py`, or use a poetry shell:
 
 Activate poetry shell with `poetry shell`, `exit` to close & deactivate env, 
 
+## ORB-SLAM2 Setup
 
-## Download Data
-
-Might have to give script persmission to run: `chmod u+x get_data.sh`, then `./get_data.sh`
-
-## Camera Calibration Data
+See the [ORB-SLAM2 Documentation](https://github.com/raulmur/ORB_SLAM2.git) for instructions to build the ORB_SLAM2 library and associated dependencies.
